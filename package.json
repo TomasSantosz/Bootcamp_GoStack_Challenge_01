@@ -1,0 +1,17 @@
+{
+  "name": "Desafio1GoStack",
+  "version": "1.0.0",
+  "description": "Desafio GoStack RocketSeat 2020",
+  "main": "index.js",
+  "author": "Tomas Santos",
+  "license": "MIT",
+  "scripts":{
+    "dev" : "nodemon start index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
