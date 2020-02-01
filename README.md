@@ -17,7 +17,10 @@ Criei uma aplicação para armazenar projetos e suas tarefas do zero utilizando 
 
 O Sistema requer que o [Node.js](https://nodejs.org/) seja instalado/executado.
 
-Inicie o servidor para instalar as dependências e dependências de desenvolvedor.
+Inicie o servidor e instale as dependências e dependências de desenvolvedor.
+```sh
+$ npm install
+```
 
 ```sh
 $ yarn dev
